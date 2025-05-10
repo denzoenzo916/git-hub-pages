@@ -3,155 +3,155 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', 'b2f'),
+    path: '/git-hub-pages/blog',
+    component: ComponentCreator('/git-hub-pages/blog', '021'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '182'),
+    path: '/git-hub-pages/blog/archive',
+    component: ComponentCreator('/git-hub-pages/blog/archive', '019'),
     exact: true
   },
   {
-    path: '/blog/authors',
-    component: ComponentCreator('/blog/authors', '0b7'),
+    path: '/git-hub-pages/blog/authors',
+    component: ComponentCreator('/git-hub-pages/blog/authors', '7ca'),
     exact: true
   },
   {
-    path: '/blog/authors/all-sebastien-lorber-articles',
-    component: ComponentCreator('/blog/authors/all-sebastien-lorber-articles', '4a1'),
+    path: '/git-hub-pages/blog/authors/all-sebastien-lorber-articles',
+    component: ComponentCreator('/git-hub-pages/blog/authors/all-sebastien-lorber-articles', '601'),
     exact: true
   },
   {
-    path: '/blog/authors/yangshun',
-    component: ComponentCreator('/blog/authors/yangshun', 'a68'),
+    path: '/git-hub-pages/blog/authors/yangshun',
+    component: ComponentCreator('/git-hub-pages/blog/authors/yangshun', '8b6'),
     exact: true
   },
   {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', '89a'),
+    path: '/git-hub-pages/blog/first-blog-post',
+    component: ComponentCreator('/git-hub-pages/blog/first-blog-post', '675'),
     exact: true
   },
   {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', '9ad'),
+    path: '/git-hub-pages/blog/long-blog-post',
+    component: ComponentCreator('/git-hub-pages/blog/long-blog-post', 'c51'),
     exact: true
   },
   {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', 'e9f'),
+    path: '/git-hub-pages/blog/mdx-blog-post',
+    component: ComponentCreator('/git-hub-pages/blog/mdx-blog-post', 'd8f'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '287'),
+    path: '/git-hub-pages/blog/tags',
+    component: ComponentCreator('/git-hub-pages/blog/tags', 'a86'),
     exact: true
   },
   {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '704'),
+    path: '/git-hub-pages/blog/tags/docusaurus',
+    component: ComponentCreator('/git-hub-pages/blog/tags/docusaurus', 'bc3'),
     exact: true
   },
   {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', '858'),
+    path: '/git-hub-pages/blog/tags/facebook',
+    component: ComponentCreator('/git-hub-pages/blog/tags/facebook', 'b1e'),
     exact: true
   },
   {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', '299'),
+    path: '/git-hub-pages/blog/tags/hello',
+    component: ComponentCreator('/git-hub-pages/blog/tags/hello', '2f5'),
     exact: true
   },
   {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', '00d'),
+    path: '/git-hub-pages/blog/tags/hola',
+    component: ComponentCreator('/git-hub-pages/blog/tags/hola', 'f6c'),
     exact: true
   },
   {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', 'd2b'),
+    path: '/git-hub-pages/blog/welcome',
+    component: ComponentCreator('/git-hub-pages/blog/welcome', '8bf'),
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '3d7'),
+    path: '/git-hub-pages/markdown-page',
+    component: ComponentCreator('/git-hub-pages/markdown-page', 'f35'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs', '733'),
+    path: '/git-hub-pages/docs',
+    component: ComponentCreator('/git-hub-pages/docs', '1fe'),
     routes: [
       {
-        path: '/docs',
-        component: ComponentCreator('/docs', '7e6'),
+        path: '/git-hub-pages/docs',
+        component: ComponentCreator('/git-hub-pages/docs', '1f6'),
         routes: [
           {
-            path: '/docs',
-            component: ComponentCreator('/docs', 'ba6'),
+            path: '/git-hub-pages/docs',
+            component: ComponentCreator('/git-hub-pages/docs', 'd7e'),
             routes: [
               {
-                path: '/docs/category/tutorial---basics',
-                component: ComponentCreator('/docs/category/tutorial---basics', '20e'),
+                path: '/git-hub-pages/docs/category/tutorial---basics',
+                component: ComponentCreator('/git-hub-pages/docs/category/tutorial---basics', '2d8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/tutorial---extras',
-                component: ComponentCreator('/docs/category/tutorial---extras', '9ad'),
+                path: '/git-hub-pages/docs/category/tutorial---extras',
+                component: ComponentCreator('/git-hub-pages/docs/category/tutorial---extras', '3ee'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/intro',
-                component: ComponentCreator('/docs/intro', '61d'),
+                path: '/git-hub-pages/docs/intro',
+                component: ComponentCreator('/git-hub-pages/docs/intro', '403'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/congratulations',
-                component: ComponentCreator('/docs/tutorial-basics/congratulations', '458'),
+                path: '/git-hub-pages/docs/tutorial-basics/congratulations',
+                component: ComponentCreator('/git-hub-pages/docs/tutorial-basics/congratulations', '66e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-blog-post',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post', '108'),
+                path: '/git-hub-pages/docs/tutorial-basics/create-a-blog-post',
+                component: ComponentCreator('/git-hub-pages/docs/tutorial-basics/create-a-blog-post', '925'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-document',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-document', '8fc'),
+                path: '/git-hub-pages/docs/tutorial-basics/create-a-document',
+                component: ComponentCreator('/git-hub-pages/docs/tutorial-basics/create-a-document', '723'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-page',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-page', '951'),
+                path: '/git-hub-pages/docs/tutorial-basics/create-a-page',
+                component: ComponentCreator('/git-hub-pages/docs/tutorial-basics/create-a-page', 'd5f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/deploy-your-site',
-                component: ComponentCreator('/docs/tutorial-basics/deploy-your-site', '4f5'),
+                path: '/git-hub-pages/docs/tutorial-basics/deploy-your-site',
+                component: ComponentCreator('/git-hub-pages/docs/tutorial-basics/deploy-your-site', '788'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/markdown-features',
-                component: ComponentCreator('/docs/tutorial-basics/markdown-features', 'b05'),
+                path: '/git-hub-pages/docs/tutorial-basics/markdown-features',
+                component: ComponentCreator('/git-hub-pages/docs/tutorial-basics/markdown-features', '63e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-extras/manage-docs-versions',
-                component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions', '978'),
+                path: '/git-hub-pages/docs/tutorial-extras/manage-docs-versions',
+                component: ComponentCreator('/git-hub-pages/docs/tutorial-extras/manage-docs-versions', 'f37'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-extras/translate-your-site',
-                component: ComponentCreator('/docs/tutorial-extras/translate-your-site', 'f9a'),
+                path: '/git-hub-pages/docs/tutorial-extras/translate-your-site',
+                component: ComponentCreator('/git-hub-pages/docs/tutorial-extras/translate-your-site', '490'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -162,8 +162,8 @@ export default [
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '2e1'),
+    path: '/git-hub-pages/',
+    component: ComponentCreator('/git-hub-pages/', '19f'),
     exact: true
   },
   {

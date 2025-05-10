@@ -8,7 +8,7 @@ export default {
   "tagline": "Dinosaurs are cool",
   "favicon": "img/favicon.ico",
   "url": "https://github.com",
-  "baseUrl": "/",
+  "baseUrl": "/git-hub-pages/",
   "organizationName": "facebook",
   "projectName": "git-hub-pages",
   "onBrokenLinks": "throw",
